@@ -1,6 +1,6 @@
-# Nabara
+# Nabra
 
-**Nabara** is a simple machine learning project that uses Support Vector Regression (SVR) to predict stock closing prices based on historical data stored in a CSV file. The project demonstrates how to preprocess stock data, train multiple SVR models with different kernels, and visualize predictions on a graph.
+**Nabra** is a simple machine learning project that uses Support Vector Regression (SVR) to predict stock closing prices based on historical data stored in a CSV file. The project demonstrates how to preprocess stock data, train multiple SVR models with different kernels, and visualize predictions on a graph.
 
 ## Features
 
